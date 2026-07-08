@@ -16,6 +16,7 @@ function App() {
           perferendis minima necessitatibus rerum.
         </p>
       </header>
+      {/* Content */}
       <MainContent />
     </>
   );
