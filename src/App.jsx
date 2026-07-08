@@ -18,6 +18,7 @@ function App() {
       </header>
       {/* Content */}
       <MainContent />
+      {/* footer */}
     </>
   );
 }
